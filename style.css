@@ -1,0 +1,21 @@
+body {
+  background-color: #1f1f1f;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Pbuttons {
+  padding: 50px;
+  font-size: 100px;
+  border-radius: 25%;
+  cursor: pointer;
+}
+
+.Cbuttons {
+  padding: 50px;
+  font-size: 100px;
+  border-radius: 25%;
+}
